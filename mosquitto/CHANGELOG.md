@@ -1,5 +1,9 @@
 # Changelog
 
+## 5.2
+
+- Add extended logging
+
 ## 5.1
 
 - Add cafile option in configuration
